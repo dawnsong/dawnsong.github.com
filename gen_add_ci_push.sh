@@ -33,4 +33,4 @@ jekyll
 git add .
 git commit -a -m 'update'
 git push heroku master
-git push github
+git push github master

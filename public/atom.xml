@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Dawn Notes]]></title>
+  <link href="http://dawnsong.heroku.com/atom.xml" rel="self"/>
+  <link href="http://dawnsong.heroku.com/"/>
+  <updated>2012-04-14T18:11:53+08:00</updated>
+  <id>http://dawnsong.heroku.com/</id>
+  <author>
+    <name><![CDATA[Dawn Song]]></name>
+    <email><![CDATA[dawnsong.tsinghua@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Start to note life from now on]]></title>
+    <link href="http://dawnsong.heroku.com/blog/2012/04/14/start-to-note-life-from-now-on/"/>
+    <updated>2012-04-14T18:09:00+08:00</updated>
+    <id>http://dawnsong.heroku.com/blog/2012/04/14/start-to-note-life-from-now-on</id>
+    <content type="html"><![CDATA[<p>Help myself. Make a good life. Be positive. Work harder to improve.</p>]]></content>
+  </entry>
+  
+</feed>

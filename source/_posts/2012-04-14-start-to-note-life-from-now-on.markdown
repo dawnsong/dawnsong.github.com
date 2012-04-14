@@ -20,3 +20,9 @@ $$
     + \frac{\partial^2}{\partial z^2}
   \right) \psi + V \psi \]
 $$
+
+字体取自 http://yihui.name
+
+Octopress 样式/Theme修改：
+
+http://chen.yanping.me/cn/blog/2012/01/07/theming-and-customization/

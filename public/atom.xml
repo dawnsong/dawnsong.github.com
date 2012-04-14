@@ -4,7 +4,7 @@
   <title><![CDATA[Dawn Notes]]></title>
   <link href="http://dawnsong.heroku.com/atom.xml" rel="self"/>
   <link href="http://dawnsong.heroku.com/"/>
-  <updated>2012-04-14T19:52:37+08:00</updated>
+  <updated>2012-04-14T20:01:47+08:00</updated>
   <id>http://dawnsong.heroku.com/</id>
   <author>
     <name><![CDATA[Dawn Song]]></name>
@@ -20,7 +20,13 @@
     <id>http://dawnsong.heroku.com/blog/2012/04/14/start-to-note-life-from-now-on</id>
     <content type="html"><![CDATA[<p>Help myself. Make a good life. Be positive. Work harder to improve.</p>
 
-<p>Test some math: $$ [ i\hbar\frac{\partial \psi}{\partial t} = \frac{-\hbar^2}{2m} \left( \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} \right) \psi + V \psi ] $$</p>]]></content>
+<p>Test some math: $$ [ i\hbar\frac{\partial \psi}{\partial t} = \frac{-\hbar^2}{2m} \left( \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} \right) \psi + V \psi ] $$</p>
+
+<p>字体取自 http://yihui.name</p>
+
+<p>Octopress 样式/Theme修改：</p>
+
+<p>http://chen.yanping.me/cn/blog/2012/01/07/theming-and-customization/</p>]]></content>
   </entry>
   
 </feed>

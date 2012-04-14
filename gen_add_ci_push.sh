@@ -28,8 +28,9 @@ elog(){ echo "$@" 1>&2 ; }
 
 cd $(dirname `readlink -f $0`)
 
-rake generate
+#rake generate
+jekyll
 git add .
-git commit
+git commit -a -m 'update'
 git push heroku master
 git push github

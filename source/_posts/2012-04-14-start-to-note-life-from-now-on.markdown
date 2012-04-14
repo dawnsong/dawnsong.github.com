@@ -22,7 +22,11 @@ $$
   \right) \psi + V \psi \]
 $$
 
-inline Math equation: $$
+inline Math equation: $\forall x, y : \mathbb{Z}, x > 3 \land y < 2 \Rightarrow x^2 - 2y > 5$
+
+### Math and TeX reference
+- http://steshaw.org/blog/2012/02/09/hello-mathjax/
+
 
 ### 本站字体 
 - http://yihui.name
@@ -30,3 +34,4 @@ inline Math equation: $$
 
 ### Octopress样式/Theme修改
 - http://chen.yanping.me/cn/blog/2012/01/07/theming-and-customization/
+

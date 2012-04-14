@@ -1,5 +1,5 @@
 header{
-	height: 30px;
+	height: 5px;
 	padding: 30px 0;
 	border-bottom: 1px solid $gray04;
 	line-height: 30px;
@@ -21,7 +21,7 @@ header{
 		}
 	}
 	h1{
-		font-weight: 300;
+		font-weight: 500;
 		font-size: 30px;
 		@media screen and (max-width: 1040px){
 			float: none !important;
@@ -31,7 +31,7 @@ header{
 		margin-left: 30px;
 		@media screen and (max-width: 1040px){
 			margin-left: 0;
-			margin-top: 15px;
+			margin-top: 1px;
 			float: none !important;
 		}
 		>ul{

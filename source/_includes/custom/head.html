@@ -2,11 +2,15 @@
 <link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700,300,200" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
+
+<!-- <script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>  -->
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
+    jax: ['input/Tex', 'output/HTML-CSS'],
     tex2jax: {
       inlineMath: [['$','$'], ['\\(','\\)']] ,
+      displayMath: [['$$', '$$']],
       processEscapes: true ,
       skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
     }
@@ -19,3 +23,4 @@
   });
 </script>
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"> </script> 

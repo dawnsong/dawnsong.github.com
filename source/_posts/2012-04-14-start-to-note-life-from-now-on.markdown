@@ -26,6 +26,7 @@ inline Math equation: $\forall x, y : \mathbb{Z}, x > 3 \land y < 2 \Rightarrow 
 
 ### Math and TeX reference
 - http://steshaw.org/blog/2012/02/09/hello-mathjax/
+- http://xuguang.info/blog/2012/03/linux-slash-ubuntuxia-octopressbo-ke-da-jian-guo-cheng/
 
 
 ### 本站字体 

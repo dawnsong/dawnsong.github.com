@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-04-14T15:50:46+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Dawn Notes]]></title>
+  <link href="http://dawnsong.github.com/atom.xml" rel="self"/>
+  <link href="http://dawnsong.github.com/"/>
+  <updated>2012-04-14T16:26:03+08:00</updated>
+  <id>http://dawnsong.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Dawn Song]]></name>
+    <email><![CDATA[dawnsong.tsinghua@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 

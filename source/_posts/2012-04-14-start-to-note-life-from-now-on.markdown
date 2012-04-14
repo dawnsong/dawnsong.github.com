@@ -6,12 +6,13 @@ comments: true
 categories: 
 ---
 
-Help myself.
-Make a good life.
-Be positive.
-Work harder to improve.
+## Life in future:
+- Help myself.
+- Make a good life.
+- Be positive.
+- Work harder to improve.
 
-Test some math:
+### I can write math now:
 $$
 \[ i\hbar\frac{\partial \psi}{\partial t}
   = \frac{-\hbar^2}{2m} \left(
@@ -21,8 +22,11 @@ $$
   \right) \psi + V \psi \]
 $$
 
-字体取自 http://yihui.name
+inline Math equation: $$
 
-Octopress 样式/Theme修改：
+### 本站字体 
+- http://yihui.name
+- http://pydanny.com/choosing-a-new-python-based-blog-engine.html
 
-http://chen.yanping.me/cn/blog/2012/01/07/theming-and-customization/
+### Octopress样式/Theme修改
+- http://chen.yanping.me/cn/blog/2012/01/07/theming-and-customization/

@@ -4,7 +4,7 @@
   <title><![CDATA[Dawn Notes]]></title>
   <link href="http://dawnsong.heroku.com/atom.xml" rel="self"/>
   <link href="http://dawnsong.heroku.com/"/>
-  <updated>2012-04-14T20:26:27+08:00</updated>
+  <updated>2012-04-14T20:54:17+08:00</updated>
   <id>http://dawnsong.heroku.com/</id>
   <author>
     <name><![CDATA[Dawn Song]]></name>
@@ -18,15 +18,37 @@
     <link href="http://dawnsong.heroku.com/blog/2012/04/14/start-to-note-life-from-now-on/"/>
     <updated>2012-04-14T18:09:00+08:00</updated>
     <id>http://dawnsong.heroku.com/blog/2012/04/14/start-to-note-life-from-now-on</id>
-    <content type="html"><![CDATA[<p>Help myself. Make a good life. Be positive. Work harder to improve.</p>
+    <content type="html"><![CDATA[<h2 id="life-in-future">Life in future:</h2>
+<ul>
+  <li>Help myself.</li>
+  <li>Make a good life.</li>
+  <li>Be positive.</li>
+  <li>Work harder to improve.</li>
+</ul>
 
-<p>Test some math: $$ [ i\hbar\frac{\partial \psi}{\partial t} = \frac{-\hbar^2}{2m} \left( \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} \right) \psi + V \psi ] $$</p>
+<h3 id="i-can-write-math-now">I can write math now:</h3>
+<p>$$
+[ i\hbar\frac{\partial \psi}{\partial t}
+  = \frac{-\hbar^2}{2m} \left(
+    \frac{\partial^2}{\partial x^2}
+    + \frac{\partial^2}{\partial y^2}
+    + \frac{\partial^2}{\partial z^2}
+  \right) \psi + V \psi ]
+$$</p>
 
-<p>字体取自 http://yihui.name</p>
+<p>inline Math equation: $$</p>
 
-<p>Octopress 样式/Theme修改：</p>
+<h3 id="section">本站字体</h3>
+<ul>
+  <li>http://yihui.name</li>
+  <li>http://pydanny.com/choosing-a-new-python-based-blog-engine.html</li>
+</ul>
 
-<p>http://chen.yanping.me/cn/blog/2012/01/07/theming-and-customization/</p>]]></content>
+<h3 id="octopresstheme">Octopress样式/Theme修改</h3>
+<ul>
+  <li>http://chen.yanping.me/cn/blog/2012/01/07/theming-and-customization/</li>
+</ul>
+]]></content>
   </entry>
   
 </feed>

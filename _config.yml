@@ -34,7 +34,7 @@ destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
-markdown: maruku # rdiscount, maruku support MathJax
+markdown: kramdown # maruku # rdiscount, maruku support MathJax
 lsi: true #show related contents
 pygments: true # default python pygments have been replaced by pygments.rb
 

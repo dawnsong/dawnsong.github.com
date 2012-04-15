@@ -4,17 +4,26 @@
   <title><![CDATA[Dawn Notes]]></title>
   <link href="http://dawnsong.heroku.com/atom.xml" rel="self"/>
   <link href="http://dawnsong.heroku.com/"/>
-  <updated>2012-04-14T23:55:47+08:00</updated>
+  <updated>2012-04-15T18:15:31+08:00</updated>
   <id>http://dawnsong.heroku.com/</id>
   <author>
-    <name><![CDATA[Dawn Song]]></name>
+    <name><![CDATA[Dawnsong]]></name>
     <email><![CDATA[dawnsong.tsinghua@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Start to note life from now on]]></title>
+    <title type="html"><![CDATA[Stat plot for my wife's paper about two groups histogram with single y-error-bar and cicle scatter plot]]></title>
+    <link href="http://dawnsong.heroku.com/blog/2012/04/15/stat-plot-for-my-wifes-paper-about-two-groups-histogram-with-single-y-error-bar-and-cicle-scatter-plot/"/>
+    <updated>2012-04-15T17:37:00+08:00</updated>
+    <id>http://dawnsong.heroku.com/blog/2012/04/15/stat-plot-for-my-wifes-paper-about-two-groups-histogram-with-single-y-error-bar-and-cicle-scatter-plot</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Start to write notes about life from now on]]></title>
     <link href="http://dawnsong.heroku.com/blog/2012/04/14/start-to-note-life-from-now-on/"/>
     <updated>2012-04-14T18:09:00+08:00</updated>
     <id>http://dawnsong.heroku.com/blog/2012/04/14/start-to-note-life-from-now-on</id>
@@ -26,7 +35,7 @@
   <li>Work harder to improve.</li>
 </ul>
 
-<h3 id="i-can-write-math-now">I can write math now:</h3>
+<h2 id="i-can-write-math-now">I can write math now:</h2>
 <p>$$
 [ i\hbar\frac{\partial \psi}{\partial t}
   = \frac{-\hbar^2}{2m} \left(
@@ -38,23 +47,28 @@ $$</p>
 
 <p>inline Math equation: $\forall x, y : \mathbb{Z}, x &gt; 3 \land y &lt; 2 \Rightarrow x^2 - 2y &gt; 5$</p>
 
-<h3 id="math-and-tex-reference">Math and TeX reference</h3>
+<h2 id="math-and-tex-reference">Math and TeX reference</h2>
 <ul>
   <li>http://steshaw.org/blog/2012/02/09/hello-mathjax/</li>
   <li>http://xuguang.info/blog/2012/03/linux-slash-ubuntuxia-octopressbo-ke-da-jian-guo-cheng/</li>
 </ul>
 
-<h3 id="section">本站字体</h3>
+<h2 id="section">本站字体</h2>
 <ul>
   <li>http://yihui.name</li>
   <li>http://pydanny.com/choosing-a-new-python-based-blog-engine.html</li>
 </ul>
 
-<h3 id="octopresstheme">Octopress样式/Theme修改</h3>
+<h2 id="octopresstheme">Octopress样式/Theme修改</h2>
 <ul>
   <li>http://chen.yanping.me/cn/blog/2012/01/07/theming-and-customization/</li>
 </ul>
 
+<h2 id="my-favorite-theme">My favorite Theme</h2>
+<ul>
+  <li>http://xuguang.info
+This CSS is revised refering slash for Octopress and xuguang.info.</li>
+</ul>
 ]]></content>
   </entry>
   

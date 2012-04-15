@@ -2,9 +2,9 @@
 {% include head.html %}
 
 <body>
-	<header class="inner">{% include header.html %}</header>
+	<header class="inner" style="position:fixed; z-index:999; width:95%; margin-left:30px; background:#eee; ">{% include header.html %}</header>
 	{% include banner.html %}
-	<div id="content" class="inner">{{ content | expand_urls: root_url }}</div>
+	<div id="content" class="inner" style="padding-top:10px;">{{ content | expand_urls: root_url }}</div>
 	<footer class="inner">{% include footer.html %}</footer>
 	{% include after_footer.html %}
 </body>
